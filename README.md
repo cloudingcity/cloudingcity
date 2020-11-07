@@ -1,6 +1,10 @@
-### Hi there 👋
+[![](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-<!--
+[![Clouding's github stats](https://github-readme-stats.vercel.app/api?username=cloudingcity&show_icons=true&theme=gruvbox)](https://github.com/cloudingcity)
+
+<!-- ### Hi there 👋
+
 **cloudingcity/cloudingcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
